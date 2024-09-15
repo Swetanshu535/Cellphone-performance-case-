@@ -1,0 +1,81 @@
+ID,product_name,Price,discount_percentage,price_before_discount,rating_out_of_5,number_of_ratings,brand,operating_system,RAM (GB),CPU,Storage (GB),screen_size (Inches),cellular_technology,model_name,cpu_model,available_colors,0,0
+1,Apple,168.39,5.93,179,4.4,64918,Apple,iOS 12,3,0,64,6.1,"LTE, CDMA, EV-DO, UMTS, HSPA, HSDPA, GSM, EDGE",iPhone XR,Others,"Black, Blue, Coral, Red, White, Yellow",0,0
+2,Apple,230,0,0,4.2,52613,Apple,iOS 16,4,0,64,6.1,4G,iPhone 11,Others,"Black, Green, Purple, Red, White, Yellow",0,0
+3,Apple,287,0,0,4.1,25403,Apple,iOS 16,4,0,64,6.1,"5G, 4G LTE",iPhone 12,Others,"(Product)Red, Black, Blue, Green, Purple, Red, White",0,0
+4,OnePlus ,329.99,0,0,4.3,25133,OnePlus,Android 12.0,8,0,128,6.43,5G,Nord CE 2,Others,"(Product)Red, Black, Blue, Green, Purple, Red, White",0,0
+5,Apple,182,0,0,4.2,21859,Apple,iOS 12,0,0,64,5.8,"GSM, CDMA, HSPA, EVDO, LTE, HSDPA",iPhone XS,Others,"GOLD, Gold, SILVER, Silver, Space Gray",0,0
+6,Apple,263,24.64,349,4.2,21500,Apple,iOS,4,0,64,5.8,"FDD-LTE,TD-LTE,CDMA,EV-DO,UMTS,HSPA+,DC-HSDPA,GSM,EDGE",iPhone 11 Pro,Others,"Gold, Midnight Green, Silver, Space Gray",0,0
+7,Apple,115,26.69,156.86,4.3,18728,Apple,iOS 16,3,2.65 GHz,64,4.7,4G,iPhone SE2,Others,"Black, Red, White",0,0
+8,Moto ,199.99,20,249.99,4.4,16746,Motorola,Android,4,2.4 GHz,64,6.4,4G,Moto G Power,Others,"Black, Blue",0,0
+9,Apple ,329,0,0,4.2,16089,Apple,iOS 14,4,0,64,6.5,4G,iPhone 11 Pro Max,Others,"Gold, Green, Midnight Green, Silver, Space Gray",0,0
+10,SAMSUNG ,339.99,0,0,4.5,14904,SAMSUNG,Android,6,0,128,6.4,"GSM, LTE, 5G",Galaxy S21 FE,Others,"Cloud Lavender, Cloud Navy, Cloud Red, Graphite, Olive, White",0,0
+11,Xiaomi ,180,5.26,190,4.5,14389,Xiaomi,MIUI 12,6,2.05 GHz,128,6.43,0,NOTE 11s,Core i5 2.8GHz,"Pearl White, Twilight Blue",0,0
+12,Apple ,234.95,0,0,4.3,13489,Apple,iOS,0,0,64,6.5,"GSM, CDMA, HSPA, EVDO, LTE, HSDPA",iPhone XS Max,Core i5 2.8GHz,"Gold, Silver, Space Gray",0,0
+13,Apple ,219.78,0,0,4.1,13049,Apple,iOS 16,4,0,64,5.4,"5G, 4G LTE",iPhone 12 mini,Core i5 2.8GHz,"(Product)Red, Black, Blue, Green, Purple, Red, White",0,0
+14,Apple ,406.94,31.47,593.84,4.1,11866,Apple,iOS 16,8,0,128,6.1,5G,iPhone 13,Core i5 2.8GHz,"Blue, Green, Midnight, Pink, Red, Starlight",0,0
+15,Moto ,118,5.6,125,4.2,10668,Motorola,Android 12.0,4,2 GHz,64,6.6,"LTE, GSM, CDMA, UMTS",Moto G Power,Core i5 2.8GHz,"Blue, Dark Grove, Gray, Polar Silver",0,0
+16,Google,159.98,13.52,184.99,4.5,10411,Google,Android,6,2 GHz,128,5.8,"GSM, HSPA, LTE, HSDPA",Pixel 4a,Snapdragon,"Barely Blue, Just Black",0,0
+17,Apple ,379.74,27.11,521.01,4.2,10226,Apple,iOS 14,8,0,128,6.1,5G,iPhone 12 Pro,Snapdragon,"Gold, Graphite, Pacific Blue, Silver, Sliver",0,0
+18,SAMSUNG ,0,0,0,4.4,10155,Samsung Electronics,Android,0,0,128,6.5,"GSM, UMTS, CDMA, LTE",Galaxy A51,Snapdragon,Galaxy A51,0,0
+19,Apple ,488,0,0,4.2,9322,Apple,iOS 16,4,0,128,6.68,5G,iPhone 12 Pro Max,Snapdragon,"Gold, Graphite, Pacific Blue, Silver",0,0
+20,SAMSUNG ,291,0,0,4.4,8558,SAMSUNG,Android,6,0,64,6.2,0,Galaxy S9 Plus,Snapdragon,"Coral Blue, Lilac Purple",0,0
+21,SAMSUNG ,0,0,0,4.3,8136,SAMSUNG,android,2,2 GHz,32,6.2,4G,A10S,Snapdragon,"Black, Red",0,0
+22,BLU ,0,0,0,4.1,7601,BLU,Android 6.0,0,1.3 GHz,8,5.5,4G,Advance 5.5,Snapdragon,Advance 5.5 HD,0,0
+23,BLU ,0,0,0,4.2,7244,BLU,Android 9.0,0,2 GHz,128,6.3,GSM,G9 PRO,Snapdragon,"Black, Blue, Nightfall, Purple Haze",0,0
+24,SAMSUNG ,164,4.65,172,3.9,7231,SAMSUNG,Android 10.0,6,2.84 GHz,128,6.5,0,Galaxy S20 FE,1.2GHz Cortex A13 Processor,"Cloud Lavender, Cloud Mint, Cloud Navy, Cloud Orange, Cloud Red, Cloud White",0,0
+25,Xiaomi ,264.9,0,0,4.7,7007,Xiaomi,Android,6,2.2 GHz,256,6.67,0,Xiaomi Poco X5,PA-7200,Black (Global Vesion),0,0
+26,SAMSUNG ,1101.23,8.23,1199.99,4.6,6959,SAMSUNG,Android 13.0,8,3.36 GHz,256,6.8,5G,Galaxy S23 Ultra,PA-7201,"Cream, Green, Lavender, Phantom Black",0,0
+27,SAMSUNG ,176,50.97,358.97,4.3,6689,SAMSUNG,Android 7.1,6,0,64,6.3,"3G,4G,2G",Galaxy Note 8,PA-7202,"Deepsea Blue, Midnight Black, Orchid Gray",0,0
+28,Moto ,149.99,16.67,179.99,4.4,6648,Motorola,Android,4,2.4 GHz,128,6.4,"2G, 3G, 4G, LTE, GSM, CDMA",Moto G Stylus,PA-7203,"Blue, Indigo, White",0,0
+29,SAMSUNG ,295,0,0,4.3,6614,SAMSUNG,Android 9.0,12,0,256,6.8,"GSM,CDMA,HSPA,EVDO,LTE",Galaxy Note 10 Plus,Snapdragon,"Aura Black, Aura Blue, Aura Glow, Aura White, Silver",0,0
+30,SAMSUNG ,197,43.67,349.72,3.9,6218,SAMSUNG,Android,8,2.8 GHz,128,6.2,0,Galaxy S21,Snapdragon,0,0,0
+31,SAMSUNG ,179.99,0,0,4,6199,SAMSUNG,Android,8,2.84 GHz,128,6.2,0,Galaxy S20 5G,Snapdragon,"Cloud Blue, Cloud Pink, Cloud White, Cosmic Gray",0,0
+32,Google,339.99,0,0,4.2,6081,Google,Android 12.0,8,0,128,6.4,"LTE, GSM, CDMA, HSPA, EVDO",Pixel 6,Snapdragon,"Cloudy White, Kinda Coral, Sorta Seafoam, Stormy Black",0,0
+33,Google,0,0,0,4.2,5043,Google,Android,6,0,128,6.13,5G,Pixel 6a,Snapdragon,"Chalk, Charcoal",0,0
+34,SAMSUNG ,0,0,0,4.2,4923,SAMSUNG,Android,2,2.5 GHz,16,5.1,4G,Galaxy S5,Snapdragon,"Black, Gold, White",0,0
+35,SAMSUNG ,279.99,0,0,4.2,4647,SAMSUNG,android,4,"2.3, 1.7 GHz",128,6.5,"GSM, LTE, WCDMA, UMTS",0,Snapdragon,"Black, Blue",0,0
+36,Apple ,509.99,0,0,4.1,4605,Apple,iOS 15,0,0,128,6.1,5G,iPhone 13 Pro,Snapdragon,"Alpine Green, Gold, Graphite, Sierra Blue, Silver",0,0
+37,Google ,149.99,68.69,479,4.3,4554,Google,"Chrome OS, Android",4,0,1,6,4G,Pixel 3a XL,Snapdragon,"Clearly White, Just Black, Purple-ish",0,0
+38,SAMSUNG ,0,0,0,4.3,4492,SAMSUNG,Android 12.0,4,0,128,6.5,5G,Galaxy A53 5G,Snapdragon,Black,0,0
+39,Apple ,364,12.29,415,4.1,4200,Apple,iOS 15,0,3.23 GHz,128,5.4,5G,iPhone 13 mini,Snapdragon,"Blue, Green, Midnight, Pink, Product Red, Red, Starlight",0,0
+40,Google ,424.99,39.2,699,4.3,4182,Google,Android 13.0,8,2.76 GHz,256,6.3,0,Pixel 7,Snapdragon,"Lemongrass, Obsidian, Snow",0,0
+41,Samsung ,227.44,0,0,4.2,4044,SAMSUNG,Android,12,0,256,6.3,"GSM, CDMA, TD-SCDMA, LTE",Galaxy Note 10,Snapdragon,"Aura Black, Aura White",0,0
+42,Motorola ,0,0,0,4.4,3903,Motorola,Android 10.0,6,2.4 GHz,128,6.7,5G,Motorola One,Snapdragon,PHONE,0,0
+43,Samsung ,392,0,0,3.9,3797,SAMSUNG,Android,8,3.4 MHz,128,6.8,5G,Galaxy S22 Ultra 5G,1.2GHz Cortex A13 Processor,"Burgundy, Graphite, Green, Phantom Black, Phantom White, Red, Sky Blue",0,0
+44,Motorola ,0,0,0,4.5,3776,Motorola,Android,0,1.2 GHz,8,5,3G,Moto G,1.2GHz Cortex A13 Processor,White,0,0
+45,Samsung,798.98,0,0,4.5,3758,SAMSUNG,Android 10.0,12,0,128,6.9,5G,Samsung Galaxy Note 20 Ultra 5G,1.2GHz Cortex A13 Processor,"Black, Mystic Black, Mystic Bronze, Mystic White",0,0
+46,Samsung ,0,0,0,4.6,3699,SAMSUNG,Android 4.1,8,1.4 GHz,16,4.8,0,Galaxy S3,1.2GHz Cortex A13 Processor,0,0,0
+47,Samsung ,227,0,0,4.2,3558,SAMSUNG,Android,8,0,256,6.3,"GSM, CDMA, TD-SCDMA, LTE",Galaxy Note 10,1.2GHz Cortex A13 Processor,"Aura Glow, Aura White, White",0,0
+48,BLU ,27.99,0,0,3.7,3558,BLU,0,0,0,2,2.4,2G,Tank II,1.2GHz Cortex A13 Processor,"Gray, Red",0,0
+49,Samsung ,69.99,10.27,78,3.9,3432,SAMSUNG,Android 9.0,2,"1.35, 1.6 GHz",32,5.83,0,Galaxy A10e,Snapdragon,0,0,0
+50,Google ,269.99,5.27,285,4.4,3430,Google,Android 11.0,8,1.8 GHz,128,6,0,Google Pixel 5,Snapdragon,"Just Black, Sorta Sage",0,0
+51,BLU ,0,0,0,4.1,3418,BLU,Android,3,1.6 GHz,64,6.1,4G,Vivo X6,Snapdragon,0,0,0
+52,Samsung ,183,7.58,198,4.3,3276,SAMSUNG,Android 8.1,6,0,128,6.4,"2G,3G,4G",Galaxy Note 9,Snapdragon,Lavender Purple,0,0
+53,BLU ,22.99,0,0,3.2,3275,BLU,android,0,0,32,1.8,Gsm,Z5,Snapdragon,"BLUE, Black, CYAN, Coral, Green, White",0,0
+54, Samsung ,159.99,0,0,4.3,3205,TracFone,Android 9.0,2,1.6 GHz,32,5.83,4G,Galaxy A10e,Snapdragon,0,0,0
+55,LIVELY,47.99,40.01,79.99,4,3200,LIVELY,Android,16,0,16,5.8,4G,MTK6739,Snapdragon,"Graphite, Red",0,0
+56,Motorola,310.41,0,0,4.3,3148,Motorola,Android 11.0,4,2 GHz,4,6.8,5G,Moto G Stylus 5G,Snapdragon,Cosmic Emerald,0,0
+57,Samsung ,125,0,0,4.3,3078,SAMSUNG,Android 9.0,2,1.6 GHz,32,6.2,0,Galaxy A10,Exynos 4200,0,0,0
+58,BLU ,0,0,0,3.3,3036,BLU,Android 8.1,0,1.3 GHz,16,4,"GSM, LTE",Advance L5,Exynos 4201,0,0,0
+59,Apple ,650,0,0,4.2,3018,Apple,iOS 15,0,0,256,6.7,5G,iPhone 13 Pro Max,Exynos 4202,"Alpine Green, Gold, Graphite, Sierra Blue, Silver",0,0
+60,Xiaomi ,225,0,0,4.7,3000,Xiaomi,MIUI 12,8,0,256,0,5G,Redmi Note 12 PRO 5G,Exynos 4203,0,0,0
+61,SAMSUNG,289.98,0,0,4.3,2989,SAMSUNG,Android 7.0,4,0,64,5.8,"GSM, HSPA, LTE",Galaxy S8,Exynos 4204,"Black, Orchid Gray",0,0
+62,Samsung ,198,0,0,4.2,2960,SAMSUNG,Android,6,2.8 GHz,128,6.4,0,Galaxy Note 9,Snapdragon,0,0,0
+63,Samsung ,279,7,299.99,4.2,2945,SAMSUNG,Android 9.0,8,0,256,6.8,"2G, 3G, 4G, LTE, GSM, CDMA",Galaxy Note 10 Plus,Snapdragon,Aura Black,0,0
+64,Google ,159,10.52,177.69,4.3,2920,Google,Android 11.0,6,0,128,6.2,5G,Pixel 4a 5G,Snapdragon,"Clearly White, Just Black",0,0
+65,Samsung,199.99,23.87,262.68,4.1,2871,SAMSUNG,Android,12,2.84E+3 MHz,128,6.7,"5G, 4G, 3G, 2G",Galaxy S20 5G,Snapdragon,"Aura Blue, Cosmic Black, Cosmic Gray",0,0
+66,Apple ,295,0,0,4.4,2830,Apple,iOS 16,64,0,64,6,4G,iPhone 11,Snapdragon,"Black, Green, Purple, Red, White, Yellow",0,0
+67,TracFone ,46.75,6.48,49.99,4.2,2805,TracFone,Android 11.0,3,2.3 GHz,32,6.5,4G,Moto G Pure,Snapdragon,RSU model,0,0
+68,OnePlus ,0,0,0,4.4,2774,OnePlus,Android 10.0,8,0,128,6.55,5G,OnePlus 8,Snapdragon,"Glacial Green, Interstellar Glow, Onyx Black​, Ultramarine Blue",0,0
+69,Nokia ,0,0,0,3.7,2739,Nokia,Series 30+,0.06,0,0.13,2.4,4G,225 4G,Snapdragon,0,0,0
+70,Samsung ,0,0,0,4.3,2735,Samsung Electronics,Android,2,0,1,5.7,"GSM, CDMA, HSPA, EV-DO, LTE, HSDPA",Galaxy A10e,Snapdragon,Galaxy A10e,0,0
+71,Google ,449,55.06,999,4.2,2723,Google,Android 13.0,12,0,256,6.7,5G,Pixel 7 Pro,Snapdragon,"Hazel, Obsidian, Snow",0,0
+72,Apple,459.49,5.26,485,4.2,2690,Apple,iOS 16,0,0,128,6.1,5G,iPhone 14,Snapdragon,"(Product) Red, Blue, Midnight, Midnight Black, Product Red, Purple, Red, Starlight, Yellow",0,0
+73,Huawei ,0,0,0,3.7,2682,HUAWEI,Android,0,2.1 GHz,32,5.7,4G,Nexus 6P,Snapdragon,"Gold, Graphite, Silver",0,0
+74,Moto ,179.74,0,0,4.2,2668,Motorola,Android 11.0,4,2.3 GHz,128,6.5,0,Moto G Power,MediaTek Helio,"Ice Blue, Moonlight Gray",0,0
+75,Samsung ,0,0,0,4.3,2598,SAMSUNG,Android 10.0,2,1.95 GHz,32,5.7,"4G, 3G, 2G",A01 Core,0,Black,0,0
+76,Motorola ,149.99,40,249.99,4.2,2565,Motorola,Android 13.0,6,2.2 GHz,4,6.5,0,Moto G 5G (2023),Snapdragon,"Bright White, Harbor Gray, Ink Blue, Midnight Blue, Mineral Black, Pale Lilac, Sage Green",0,0
+77,Poco ,137.5,0,0,4.6,2555,Xiaomi,"MIUI 14 for POCO, based on Android 12",8,0,256,6.74,4G,c65,0,"Black Global ROM, Blue Global ROM, Purple Global ROM",0,0
+78,Samsung,198,0,0,4.2,2515,SAMSUNG,Android 8.1,6,2.8 GHz,128,6.4,0,Galaxy Note 9,Snapdragon,0,0,0
+79,Samsung ,319.95,0,0,4,2490,SAMSUNG,Android,12,2.73 GHz,128,6.9,0,Galaxy Note 20 Ultra 5G,Qualcomm Snapdragon S3 MSM8260,"Mystic Black, Mystic White",0,0
+80,TracFone ,46.99,0,0,4,2478,TracFone,KaiOS,0,1.1 GHz,4,2.8,4G,My Flip 2,0,Phone,0,0
